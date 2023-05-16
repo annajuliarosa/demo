@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Anna Julia",
+    "data": "16/05/2023",
+    "assunto": "Ajuda POO",
+    "disciplina": "POO"
+}, 
+  {
+     "nome": "Carlos",
+    "data": "15/05/2023",
+    "assunto": "Ajuda Lógica",
+    "disciplina": "Logica"
+  },
+  {
+    "nome": "Leticia,
+    "data": "14/05/2023",
+    "assunto": "Ajuda TI",
+    "disciplina": "TI"
+}, 
+  {
+     "nome": "Juliana",
+    "data": "13/05/2023",
+    "assunto": "Ajuda Matematica",
+    "disciplina": "Matematica"
+  } 
+]
